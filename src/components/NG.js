@@ -5,7 +5,7 @@ export default function NG() {
     <>
 
         <div className='container mt-5 ' >
-            <div className='row light-text profile-content '>
+            <div className='row text-white profile-content '>
                 <div className='img-container'>
                     <img className='profile-image' src='/portfolio/public/IMG_0705 (copy).JPG' alt=''/>
                 </div>
